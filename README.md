@@ -7,7 +7,7 @@ Akuisisi data caleg dari KPU dan diseminasi informasi untuk memberikan edukasi k
  1. dpr.sh dan dprd.sh digunakan untuk mengambil data caleg DPR dan DPRD
    dari server KPU   
  2. linkdpr dan linkdprd adalah daftar halaman pada web    http://pemilu.info/
- 3. hasilcrawl.zip adalah hasil crawl gabungan dari dpr.sh dan dprd.sh
+ 3. hasilcrawl.zip adalah hasil crawl gabungan dari dpr.sh dan dprd.sh. dimana dipisahkan dengan semicolon 
 
 **Cara menjalankan**
 
