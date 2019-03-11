@@ -17,7 +17,11 @@ Akuisisi data caleg dari KPU dan diseminasi informasi untuk memberikan edukasi k
 
 **Diseminasi**
 
-Untuk melihat bagaimana grafik visualisasi yang kami buat bisa diimport notebook di *databrick* berikut ini:
+Untuk melihat bagaimana grafik visualisasi yang kami buat bisa dilihat di PDF https://github.com/nurainir/caleg2019/blob/master/pemilu2019.pdf
+
+**Kode lengkap**
+
+diimport notebook di *databrick* berikut ini:
 
 1.  [https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8387562705802125/1631563187894747/751175171559615/latest.html](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8387562705802125/1631563187894747/751175171559615/latest.html)
 2. https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6829307718073260/2350732941474656/3544324064342174/latest.html
